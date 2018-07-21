@@ -1,7 +1,6 @@
 npm-debug.log
 .DS_Store
 
-lib/
 node_modules/
 coverage/
 
