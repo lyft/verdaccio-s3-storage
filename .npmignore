@@ -9,7 +9,6 @@ yarn.lock
 .flowconfig
 flow-typed/
 .eslintrc
-.babelrc
 test/
 .eslintignore
 .eslintrc.yml
